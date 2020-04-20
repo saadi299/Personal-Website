@@ -1,0 +1,170 @@
+.indianred-highlight
+{
+    color:#AB274F;
+    font-weight: 700;
+    font-size: 65px;
+       
+}
+
+body
+{
+    font-family: 'Poppins', sans-serif;
+}
+
+
+
+.half-width
+{
+  width:42%;
+  height: 120%;
+  float: left;
+  margin-left: 100px;
+
+}
+
+
+
+
+
+section
+{
+    height:500px;
+}
+
+.hello
+{
+    background-color: lightgrey;
+    background-image: url(images/header-bg.png);
+
+}
+
+    img
+     {
+        width: 80%;
+        height: 80%;
+    }
+.button
+{
+    text-decoration: none;
+    padding:10px 20px;
+    background-image:linear-gradient(to right,lightcoral,#AB274F);
+    border-radius: 10px;
+    color: white;
+    font-weight: bolder;
+
+}
+h3{
+    font-size: 35px;
+}
+.bio{
+    background-image: url(images/biography-bg.png);
+}
+
+
+.cv{
+    text-decoration: none;
+    font-weight: 700;
+    color:white;
+    background-image:linear-gradient(to right,indianred,#AB274F);
+    padding:13px 30px;
+    border-radius: 10px;
+    
+   
+}
+
+.image-container{
+
+    height:55%;
+    width:35%;
+    display: flex;
+   
+}
+
+.work-heading{
+
+   text-align: center;
+   padding-bottom: 100px;
+ 
+}
+
+.container
+{
+    margin-left: 150px;
+    padding-bottom: 200px;
+   
+}
+
+
+.image-container img{
+    padding: 10px ;
+}
+
+.latest-work{
+   
+    background-color: indianred;
+    background-image: url(images/latest-work-bg.png);
+    height: 700px;
+}
+
+.bruce{
+    text-align: center;
+}
+
+#head-last
+{
+  
+}
+#para{
+    color: grey;
+}
+.bruce
+{
+    
+}
+#work-heading{
+    
+    text-align: center;
+    padding-bottom: 50px;
+    
+    
+}
+#client-pera{
+    text-align: center;
+    width:30%;
+    margin-left: 35%;
+    padding-bottom: 30px;
+    font-size: 13px;
+}
+.lastd{ 
+   font-size:12px;
+
+}
+
+.lastb{
+    
+    font-weight: 700;
+    font-size: 18px;
+}
+
+.last{
+ background-image:linear-gradient(to right,indianred,#AB274F);
+ color:white;
+ width:40%;
+ height: 20%;
+ margin-left: 30%;
+ text-align: center;
+ 
+}
+
+
+
+.client{
+    background-image: url(images/footer-bg.png);
+}
+
+footer p
+{
+    text-align: center;
+    font-size: 12px;
+}
+
